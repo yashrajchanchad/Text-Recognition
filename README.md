@@ -39,8 +39,8 @@ pip install django easyocr Pillow pymupdf
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/ocr-project.git
-cd ocr-project
+git clone https://github.com/Balagangadhar-Dev/text_project.git
+cd text_project
 ```
 
 ### 2. **Set Up a Virtual Environment (Optional but Recommended)**

@@ -1,0 +1,4 @@
+Django>=4.0
+easyocr>=1.6.2
+Pillow>=9.1.0
+PyMuPDF>=1.20.0

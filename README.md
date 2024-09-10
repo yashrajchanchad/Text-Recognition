@@ -177,7 +177,7 @@ ocr_project/
 python manage.py runserver
 ```
 
-2. Navigate to `http://127.0.0.1:8000/ocr/` to upload an image or PDF file.
+2. Navigate to `http://127.0.0.1:8000` to upload an image or PDF file.
 3. The system will display the extracted text after processing.
 
 ---

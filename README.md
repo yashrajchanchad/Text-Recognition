@@ -103,11 +103,11 @@ def upload_file(request):
             else:
                 extracted_text = "Unsupported file format."
 
-            return render(request, 'ocr/result.html', {'text': extracted_text})
+            return render(request, 'result.html', {'text': extracted_text})
     else:
         form = DocumentForm()
 
-    return render(request, 'ocr/upload.html', {'form': form})
+    return render(request, 'upload.html', {'form': form})
 ```
 
 ### 2. **Text Extraction Functions**

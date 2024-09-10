@@ -1,7 +1,3 @@
-Here's a complete **README.md** file that includes all the required steps for setting up and running the Django project with **EasyOCR** for text extraction from PDFs and images. It also explains how the project works and the details of the views and functionality.
-
----
-
 # Django OCR Project - Text Extraction from PDFs and Images Using EasyOCR
 
 This project is a web-based application that extracts text from PDF files and images using **EasyOCR**. It allows users to upload an image or PDF file and returns the extracted text.

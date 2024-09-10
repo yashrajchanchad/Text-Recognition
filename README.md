@@ -146,30 +146,6 @@ The project uses **Bootstrap** for styling and responsiveness.
 
 ---
 
-## Project Structure
-
-```bash
-ocr_project/
-├── ocr/
-│   ├── migrations/          # Django migrations folder
-│   ├── static/              # Static files (CSS, JS, etc.)
-│   ├── templates/           # HTML templates
-│   │   ├── base.html        # Base template (Bootstrap included)
-│   │   └── ocr/
-│   │       ├── upload.html  # Upload form
-│   │       └── result.html  # Display results
-│   ├── templatetags/        # Custom template tags for form styling
-│   ├── models.py            # Document model for file uploads
-│   ├── views.py             # Main views for uploading and processing files
-│   ├── forms.py             # Django forms for handling uploads
-├── ocr_project/
-│   ├── settings.py          # Project settings
-│   ├── urls.py              # URL routing
-└── manage.py                # Django management script
-```
-
----
-
 ## Running the Project
 
 1. Run the following command to start the development server:

@@ -164,3 +164,4 @@ python manage.py runserver
 - PDF processing is done by converting each page to an image before text extraction.
 
 Feel free to contribute or report issues!# Text-Recognition
+# Text-Recognition

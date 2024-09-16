@@ -163,4 +163,4 @@ python manage.py runserver
 - **EasyOCR** supports multiple languages. To add more languages, modify the `Reader` initialization in the `extract_text_from_image` function.
 - PDF processing is done by converting each page to an image before text extraction.
 
-Feel free to contribute or report issues!
+Feel free to contribute or report issues!# Text-Recognition
